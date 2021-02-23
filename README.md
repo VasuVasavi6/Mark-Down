@@ -1,45 +1,53 @@
-# Mark-Down
+#Mark-Down
+ 
+# Heading 1  
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+## Heading 2  
 
-Normal text
+### Heading 3   
 
-Welcome to git and github
+#### Heading 4   
 
-**Bold Text**
+##### Heading 5  
 
-*Italic Text*
+###### Heading 6   
 
-***Bold & Italic***
+Normal text   
 
-**Ordered Data**
-1.Version control
-  a.Types  
-2.Git & Github  
-3.Git intro    
-4.Git commands  
+***Welcome to git and github *** 
+
+**Bold Text**   
+
+*Italic Text*    
+
+***Bold & Italic***  
+
+
+**Ordered Data**  
+1.Version control   
+  a.Types    
+2.Git & Github    
+3.Git intro     
+4.Git commands   
   a.git init  
   b.git add  
-  c.git status
+  c.git status  
  
-  **Unordered data**  
-  -Introuction  
-  -github  
-    -git push  
-    -git pull  
-  -git branch  
-    -new branch  
-       -merge  
-       -checkout  
+ 
+ **Unordered data**    
+  
+  - Introuction    
+  - github   
+    - git push   
+    - git pull   
+  - git branch   
+    - new branch   
+       - merge   
+       - checkout 
 
 
 **Image**  
- ![github logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiwstMiNMPPHYGhQapa6rkG02XANWYh8kbQw&usqp=CAU)
+ ![github logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiwstMiNMPPHYGhQapa6rkG02XANWYh8kbQw&usqp=CAU)  
  
 
 **Link**  
@@ -50,17 +58,17 @@ Welcome to git and github
 
 **Data**  
  
- |Name|college|Branch|  
- |-----|-----|-------|
- |abc|VRSEC|IT|  
- |xyz|VRSEC|CSE|  
+|Name|college|Branch  
+|-----|-----|-------|
+|abc|VRSEC|IT|   
+|xyz|VRSEC|CSE|   
  
 
-~~StrikedText~~  
+~~StrikedText~~   
  
 
--[x] checkbox  
- -[] one  
+-[x] checkbox   
+ -[] one   
    -[] one-a  
    -[] one-b  
    
@@ -76,6 +84,11 @@ Welcome to git and github
    }
    ```
    
+ 
+ 
  **Emojis**    
    :blush:
+   
+   
+ 
 
